@@ -1,0 +1,6 @@
+[telegram]
+api_id = xxx
+api_hash = xxx
+group_ids = xxx,xxx,xxx
+loop_time = 360
+message_file = messages.json
