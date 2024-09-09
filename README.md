@@ -1,4 +1,4 @@
-# Telegram Bot
+# Telebroadcaster
 
 A Telegram bot that sends messages to specified groups at regular intervals.
 
