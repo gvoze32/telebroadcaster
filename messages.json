@@ -1,1 +1,12 @@
-["example message1", "example message2", "example message3"]
+{
+    "messages": [
+        {
+            "text": "Sample message 1",
+            "media": "path/to/media.jpg"
+        },
+        {
+            "text": "Sample message 2",
+            "media": "path/to/media2.jpg"
+        }
+    ]
+}
